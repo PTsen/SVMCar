@@ -7,6 +7,7 @@ namespace AICar
         static void Main(string[] args)
         {
             System.Diagnostics.Debug.WriteLine("Hello World!");
+            System.Diagnostics.Debug.WriteLine("TEST");
         }
     }
 }
